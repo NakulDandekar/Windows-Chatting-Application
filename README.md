@@ -4,7 +4,6 @@
 
 # Windows Chatting Application 2022
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Tools & Technologies
 - ☕ Java
