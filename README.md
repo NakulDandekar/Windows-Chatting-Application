@@ -42,7 +42,7 @@ Windows Chatting Application 2022 is a personal project that implements a chat a
     - Engage in a chat using the application.
 
 ## Screenshots
-![Screenshot 1](C:\Users\Nakul\Pictures\screenshots/windows_chatting_application_project.png)
+![Screenshot 1](windows_chatting_application_project.png)
 
 
 ## Known Issues
