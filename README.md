@@ -1,7 +1,4 @@
-/*<p align="center">
-  <img src="your_logo_or_screenshot.png" alt="Windows Chatting Application" width="400">
-</p>
-*/
+
 # Windows Chatting Application 2022
 
 
